@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @M-S-ALAM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MD SHAHBAZ ALAM
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Natural Language Processing.
+- 💞️ I’m looking to collaborate on NLP.
+- 📫 Contact me:-msalamiitd@gmail.com
 
 <!---
 M-S-ALAM/M-S-ALAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
