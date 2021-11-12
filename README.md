@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD SHAHBAZ ALAM
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Natural Language Processing.
+- 🌱 I’m currently learning Natural Language Processing and Computer Vision.
 - 💞️ I’m looking to collaborate on NLP.
 - 📫 Contact me:-msalamiitd@gmail.com
 
