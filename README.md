@@ -21,14 +21,14 @@
 
 #### Now
 
-- ✨ Contributing to [chkware](https://github.com/chkware/cli);
+#- ✨ Contributing to [chkware](https://github.com/chkware/cli);
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to python based open source projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **BRAC IT**
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
+- 🏢 I'm currently working at **Gyan Data.PVT.LTD**
+- ⚙️ I use daily: `.py`, `.ipynb`, `.`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
