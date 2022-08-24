@@ -27,7 +27,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Gyan Data.PVT.LTD**
+- 🏢 I'm currently working at **GyanData.PVT.LTD**
 - ⚙️ I use daily: `.py`, `.ipynb`, `.`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Data Science**
