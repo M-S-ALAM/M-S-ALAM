@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a Data scientist working in IIT Madras Research park, chennai, India
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
