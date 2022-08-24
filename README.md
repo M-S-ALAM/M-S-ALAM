@@ -59,7 +59,7 @@
 
 <a target="_blank" href="https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4" alt="Latest medium article">
 
-<a target="_blank" href="(https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4)"><img src="(https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4)9" alt="Latest medium article"> </a>
+<a target="_blank" href="https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4"><img src="https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4" alt="Latest medium article"> </a>
   
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
