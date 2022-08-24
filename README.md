@@ -30,8 +30,8 @@
 - 🏢 I'm currently working at **Gyan Data.PVT.LTD**
 - ⚙️ I use daily: `.py`, `.ipynb`, `.`, `.sh`
 - 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
+- 🌱 Learning all about **Data Science**
+- 💬 Ping me about **C++**, **Python**, **AWS**, **RestAPIs**
 - 📫 Reach me: [twitter.com/sudiptob2](https://twitter.com/sudiptob2)
 - 📝 Checkout my [Resume](files/resume.pdf).
 
