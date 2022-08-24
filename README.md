@@ -21,8 +21,8 @@
 
 #### Now
 
-#- ✨ Contributing to [chkware](https://github.com/chkware/cli);
-- :fire: Interested in DevOps and Cloud engineering;
+"- ✨ Contributing to [chkware](https://github.com/chkware/cli);"
+- :fire: Interested in Data Science and Data engineering;
 - :calendar: Looking for contributing to python based open source projects 
 
 #### Bio
