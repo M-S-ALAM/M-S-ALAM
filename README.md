@@ -13,8 +13,8 @@
   <a href="https://github.com/sudiptob2?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+  <a href="https://github.com/M-S-ALAM">
+    <img src="https://komarev.com/ghpvc/?username=M-S-ALAM" alt="visitors" />
   </a>
 
 </p>
