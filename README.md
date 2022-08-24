@@ -73,7 +73,7 @@
 <a href="https://www.facebook.com/sudiptob2">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="https://medium.com/@sudiptob2">
+<a href="https://medium.com/@msalamiitd">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
 <a href="mailto:sudiptobaral.me@gmail.com">
