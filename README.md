@@ -60,6 +60,12 @@
 <a target="_blank" href="https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4" alt="Latest medium article">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://medium.com/@msalamiitd/semantic-segmentation-on-indian-driving-dataset-681b3b5dfe29" alt="Latest medium article"> </a>
+  
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4"><img src="https://medium.com/@msalamiitd/sarcastic-comments-detection-reddit-an-end-to-end-case-study-e0de7fb275a4" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a>
 
 #### Connect With Me
 
