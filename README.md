@@ -61,7 +61,7 @@
   
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/0" alt="Latest medium article"> </a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/1" alt="Latest medium article"> </a>
 
 #### Connect With Me
 
