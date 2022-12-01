@@ -63,6 +63,10 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/3" alt="Latest medium article"> </a>
 
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@msalamiitd/2" alt="Latest medium article"> </a>
+
 #### Connect With Me
 
 <p left="center">
