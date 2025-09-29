@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Data scientist working in IIT Madras Research park, chennai, India
+## Hi 👋, I'm a Data scientist working in Gyandata.pvt.ltd, chennai, India
 
 <p align="left">
   <a href="https://leetcode.com/sudiptob2/">
